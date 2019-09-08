@@ -14,9 +14,9 @@ A selection of files and configs from my home folder that I have here for safe k
 
 **Cursor:** DMZ White
 
-**Icons:** Flat Remix
+**Icons:** Flat Remix Blue
 
-**Shell Theme:** TBD
+**Shell Theme:** Qogir Dark
 
 **Sound Scheme:** TBD
 
