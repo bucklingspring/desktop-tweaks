@@ -7,6 +7,7 @@ A selection of files and configs from my home folder that I have here for safe k
 - TopIcons Redux
 - Panel OSD
 - Clipboard Indicator
+- User Themes
 
 ## Appearance
 **Theme:** Qogir
