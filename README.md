@@ -1,4 +1,4 @@
-# My Dotfiles
+# My Home Folder
 A selection of files and configs from my home folder that I have here for safe keeping. Who knows, you might even find something useful!
 
 ## Frequently Used Applications
